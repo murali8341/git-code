@@ -4,7 +4,7 @@
 :source-highlighter: prettify
 :project_id: gs-maven
 
-This guide walks you through using maven to build a simple Java project.
+This guide walks you through using maven to build a simpleJava project.
 
 == What you'll build
 
